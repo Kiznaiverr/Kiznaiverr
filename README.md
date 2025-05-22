@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNiajZqNnNhdWtvNTh4ZHVvenBzdWw2eDB4MnloNWJsMzNrb2FkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif" width="30px"> Hello, I'm Kiznaiver
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNiajZqNnNhdWtvNTh4ZHVvenBzdWw2eDB4MnloNWJsMzNrb2FkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif" width="80px"> Hello, I'm Kiznaiver
 
 💻 **JavaScript Explorer** | 🤖 **AI-Powered Coder** | ☕ **Just Vibin' with Code**
 
