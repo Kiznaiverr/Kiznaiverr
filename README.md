@@ -1,54 +1,73 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm Kiznaiverr!
-</h1>
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNiajZqNnNhdWtvNTh4ZHVvenBzdWw2eDB4MnloNWJsMzNrb2FkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif" width="30px"> Hello, I'm Kiznaiver
 
-<p align="center">
-  💻 <strong>JavaScript Learner</strong> | 🌱 <strong>Beginner Developer</strong> | 🎯 <strong>Always Exploring</strong>  
-  <br>
-  <em>"Sometimes even reality is a lie."</em>
-</p>
+💻 **JavaScript Explorer** | 🤖 **AI-Powered Coder** | ☕ **Just Vibin' with Code**
+
+> *"sometimes even reality is a lie."*
 
 ---
 
-### 🚀 Current Projects
-- 🤖 [**Hu-Tao WhatsApp Bot**](https://github.com/kiznaiverr/Hu-Tao-WhatsApp-bot) — WhatsApp bot powered by Node.js  
-- 💬 [**Simple Menfess Web**](https://github.com/kiznaiverr/simple-menfess-web) — Anonymous messaging web app  
-- 🧩 **Plugin Playground** — Experiments and tools just for fun
+### 🤖 AI-Vibe Projects
+
+- 🤖 **[Hu-Tao WhatsApp Bot](https://github.com/kiznaiverr/Hu-Tao-WhatsApp-bot)**  
+  Chat automation powered by Node.js  
+- 💬 **[Simple Menfess Web](https://github.com/kiznaiverr/simple-menfess-web)**  
+  Anonymous confessions, made with good vibes  
+- 🧪 **AI experiments & tools**  
+  Small tools, built with the help of AI
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+### 🛠️ Tech Stack & Tools  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![ChatGPT](https://img.shields.io/badge/-AI%20Assisted-10a37f?style=flat-square&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiznaiverr&show_icons=true&theme=tokyonight&hide_border=true" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiznaiverr&theme=tokyonight&hide_border=true" height="160px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiznaiverr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiznaiverr&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiznaiverr&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
-### ⚙️ Coding Style
-```javascript
-// Learn → Build → Debug → Repeat
-const idea = dream();
-const prototype = build(idea);
-const result = test(prototype);
+### 🏆 GitHub Trophies
 
-if (!result.success) retry(idea);
-else deploy(result);
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kiznaiverr&theme=tokyonight&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kiznaiverr/kiznaiverr/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### ⚡ Coding with AI Vibes
+
+```javascript
+// powered by late-night lo-fi + ChatGPT
+const vibeCode = (idea) => {
+  const plan = ai.assist(idea)
+  const build = develop(plan)
+  const debugged = debug(build)
+
+  return debugged.works ? deploy(debugged)
+       : retryWithVibes()
+}
+
+while (true) {
+  const idea = vibeFlow()
+  const result = vibeCode(idea)
+  celebrate(result)
+}
