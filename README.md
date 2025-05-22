@@ -48,8 +48,16 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kiznaiverr/kiznaiverr/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/kiznaiverr/kiznaiverr/main/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+---
+
+### 📫 Connect with Me
+
+- [Facebook](https://www.facebook.com/profile.php?id=61551909925858)  
+- [Instagram](https://instagram.com/kiznavier2600k)  
+- [GitHub](https://github.com/kiznaiverr)
 
 ---
 
