@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNiajZqNnNhdWtvNTh4ZHVvenBzdWw2eDB4MnloNWJsMzNrb2FkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif" style="width:250px;" />
-</p>
-
-# Hello, I'm Kiznaiver
-
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#8be9fd;">Kiznaiver</span>
+</h1>
 
 💻 **JavaScript Explorer** | 🤖 **AI-Powered Coder** | ☕ **Just Vibin' with Code**
 
