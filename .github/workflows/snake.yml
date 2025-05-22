@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:  # supaya bisa manual trigger
 
 jobs:
   build:
@@ -14,7 +15,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_image: './github-contribution-grid-snake.svg'
+          github_user_name: Kiznaiverr   # <--- wajib isi username GitHub kamu
       - name: Commit and Push snake
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
