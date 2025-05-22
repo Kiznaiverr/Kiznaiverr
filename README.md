@@ -55,7 +55,7 @@
 
 ---
 
-### ⚡ Coding with AI Vibes
+### ⚡ Coding Vibes
 
 ```javascript
 // powered by late-night lo-fi + ChatGPT
