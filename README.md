@@ -1,32 +1,37 @@
+<p align="center">
+  <img src="https://pomf2.lain.la/f/r5qic1yk.gif" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">
-  Hey there 👋, I'm <span style="color:#8be9fd;">Kiznaiver</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8BE9FD&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Kiznaiver!" />
 </h1>
 
-💻 **JavaScript Explorer** | 🤖 **AI-Powered Coder** | ☕ **Just Vibin' with Code**
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript%20Explorer-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Automation%20Enthusiast-%23339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Just%20Vibin'%20with%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
-> *"sometimes even reality is a lie."*
+> <p align="center"><i>"sometimes even reality is a lie."</i></p>
 
 ---
 
-### 🤖 AI-Vibe Projects
+### 🚀 Projects
 
-- 🤖 **[Hu-Tao WhatsApp Bot](https://github.com/kiznaiverr/Hu-Tao-WhatsApp-bot)**  
-  Chat automation powered by Node.js  
+- 📱 **[Hu-Tao WhatsApp Bot](https://github.com/kiznaiverr/Hu-Tao-WhatsApp-bot)**  
+  Automation meets Node.js — smooth, smart, and powerful  
 - 💬 **[Simple Menfess Web](https://github.com/kiznaiverr/simple-menfess-web)**  
-  Anonymous confessions, made with good vibes  
-- 🧪 **AI experiments & tools**  
-  Small tools, built with the help of AI
+  A clean interface for anonymous messaging  
+- 🔧 **Personal Tools & Scripts**  
+  Random utilities, made with passion  
 
 ---
 
-### 🛠️ Tech Stack & Tools  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![ChatGPT](https://img.shields.io/badge/-AI%20Assisted-10a37f?style=flat-square&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,vscode,git,markdown,vercel" />
+</p>
 
 ---
 
@@ -49,27 +54,14 @@
 
 ### 📫 Connect with Me
 
-- [Facebook](https://www.facebook.com/profile.php?id=61551909925858)  
-- [Instagram](https://instagram.com/kiznavier2600k)  
-- [GitHub](https://github.com/kiznaiverr)
-
----
-
-### ⚡ Coding Vibes
-
-```javascript
-// powered by late-night lo-fi + ChatGPT
-const vibeCode = (idea) => {
-  const plan = ai.assist(idea)
-  const build = develop(plan)
-  const debugged = debug(build)
-
-  return debugged.works ? deploy(debugged)
-       : retryWithVibes()
-}
-
-while (true) {
-  const idea = vibeFlow()
-  const result = vibeCode(idea)
-  celebrate(result)
-}
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=61551909925858">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://instagram.com/kiznavier2600k">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://github.com/kiznaiverr">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
