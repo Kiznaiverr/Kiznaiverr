@@ -76,6 +76,18 @@
 
 ---
 
+## 🌐 Personal Domain
+
+<p align="center">
+  <a href="https://kiznavierr.my.id">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-kiznavierr.my.id-8BE9FD?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <br>
+  <span>🔗 Visit my website <a href="https://kiznavierr.my.id">kiznavierr.my.id</a></span>
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
