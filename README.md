@@ -26,9 +26,9 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/kiznaiverr/Hu-Tao-WhatsApp-bot">
+  <a href="https://github.com/Kiznaiverr/Chisato-md">
     <img src="https://skillicons.dev/icons?i=nodejs" width="24"/>
-    <b>Hu-Tao WhatsApp Bot</b>
+    <b>Chisato WhatsApp Bot</b>
   </a><br>
   <span>✨ Automation meets Node.js — smooth, smart, and powerful</span>
 </p>
