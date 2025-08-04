@@ -26,9 +26,9 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Kiznaiverr/Chisato-md">
+  <a href="https://github.com/Kiznaiverr/elysia">
     <img src="https://skillicons.dev/icons?i=nodejs" width="24"/>
-    <b>Chisato WhatsApp Bot</b>
+    <b>Elysia WhatsApp Bot</b>
   </a><br>
   <span>✨ Automation meets Node.js — smooth, smart, and powerful</span>
 </p>
